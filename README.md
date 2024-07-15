@@ -10,7 +10,7 @@ E-Blogs is a dynamic blogging platform that allows users to create, edit, and sh
 - Ensure data persistence and security.
 
 # Key Features
-1. ## Home Page:
+## 1.  Home Page:
    ### Display a list of all blog posts.
    ![project home](https://github.com/user-attachments/assets/f299cfb4-2690-4b61-becc-25d3cc110985)
 
@@ -18,12 +18,12 @@ E-Blogs is a dynamic blogging platform that allows users to create, edit, and sh
    ![user home](https://github.com/user-attachments/assets/cd9252b9-8640-4a2f-8603-26fadc652cd5)
 
 
-2. ## User Registration:
+## 2. User Registration:
    ### Allow new users to register by providing a username, email, and password.
    ![register](https://github.com/user-attachments/assets/a93570a2-6d52-4f81-88ce-375ef3c4b666)
 
 
-3. ## User Login:
+## 3.  User Login:
    ### Secure login functionality for registered users.
    ![login](https://github.com/user-attachments/assets/5be5f53f-1491-40c7-838b-19ac103b0676)
    
@@ -34,7 +34,7 @@ E-Blogs is a dynamic blogging platform that allows users to create, edit, and sh
 
 
 
-5. # Blog Management:
+# 5.  Blog Management:
    ## Add Blog Post:
    ### Provide a form for users to create new blog posts with a title and content.
    ![add](https://github.com/user-attachments/assets/67faaf03-53da-4de7-bf8f-0f6774bc9206)
@@ -52,7 +52,7 @@ E-Blogs is a dynamic blogging platform that allows users to create, edit, and sh
    ![delete blog](https://github.com/user-attachments/assets/1b9e21ec-d81a-4e06-b83d-90dcc458b8ae)
 
 
-6. ## User Logout:
+## 6.  User Logout:
    ### Allow users to log out and end their session.
    ![logout](https://github.com/user-attachments/assets/7a16f1e8-c57b-435e-a424-a262624056fc)
       
